@@ -6,7 +6,7 @@
 
 The agent works with any JIRA instance and is perfect for product managers, engineering leads, and process improvement teams who need data-driven insights into their development workflows.
 
-### Key Features
+**Key Features**
 
 * Sankey Flow Diagrams - Visual workflow paths showing ticket movement between states
 * State Time Histograms - Distribution analysis for cycle time spent in specific states
@@ -14,7 +14,9 @@ The agent works with any JIRA instance and is perfect for product managers, engi
 * Bottleneck Detection - Automated identification of slow-moving tickets and process inefficiencies
 * Data Validation - Built-in checks for impossible transitions and date inconsistencies
 
-### Prerequisites
+## How-To 
+
+**Prerequisites**
 To run the JIRA Ticket Cycle Time & State Workflow Analytics agent with an MCP connection, you need:
 
 * Python 3.13 with a virtual environment (venv).

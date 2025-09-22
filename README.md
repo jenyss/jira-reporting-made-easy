@@ -17,7 +17,7 @@ The agent works with any JIRA instance and is perfect for product managers, engi
 ## How-To 
 
 **Prerequisites**
-To run the JIRA Ticket Cycle Time & State Workflow Analytics agent with an MCP connection, you need:
+To run the **JIRA Ticket Cycle Time & State Workflow Analytics agent** with an MCP connection, you need:
 
 * Python 3.13 with a virtual environment (venv).
 * JupyterLab (installed inside the venv) or Google Colab

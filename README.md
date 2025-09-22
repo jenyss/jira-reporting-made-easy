@@ -1,1 +1,1 @@
-# jira-reporting-made-easy
+# Jira Reporting Made Easy

@@ -14,7 +14,7 @@ The agent works with any JIRA instance and is perfect for product managers, engi
 * Bottleneck Detection - Automated identification of slow-moving tickets and process inefficiencies
 * Data Validation - Built-in checks for impossible transitions and date inconsistencies
 
-If you have any questions or would like to collaborate, feel free to reach out to me on LinkedIn. You're more than welcome!
+If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
 ## How-To 
 

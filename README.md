@@ -6,6 +6,9 @@
 
 The agent works with any JIRA instance and is perfect for product managers, engineering leads, and process improvement teams who need data-driven insights into their development workflows.
 
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/vKniUPrz51Y) 
+
+
 **Key Features**
 
 * Sankey Flow Diagrams - Visual workflow paths showing ticket movement between states

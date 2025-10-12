@@ -14,8 +14,6 @@ The agent works with any JIRA instance and is perfect for product managers, engi
 * Sankey Flow Diagrams - Visual workflow paths showing ticket movement between states
 * State Time Histograms - Distribution analysis for cycle time spent in specific states
 * Comparative Bar Charts - Total time analysis across all workflow states
-* Bottleneck Detection - Automated identification of slow-moving tickets and process inefficiencies
-* Data Validation - Built-in checks for impossible transitions and date inconsistencies
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
